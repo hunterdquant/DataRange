@@ -1,0 +1,554 @@
+﻿Log file open, 03/04/17 14:07:25
+LogInit:Display: Running engine for game: DataRange
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1659487210) SRandInit(1659487210).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.092720
+LogPluginManager: Loaded Plugin Paper2D, From D:/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From D:/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.04-19.07.25:333][  0]LogConsoleManager:Display: Setting the console variable 'r.RHICmdBypass' with 'SetByProjectSetting' was ignored as it is lower priority than the previous 'SetBySystemSettingsIni'
+[2017.03.04-19.07.25:336][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.04-19.07.25:336][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.04-19.07.25:380][  0]LogInit: Computer: DESKTOP-1O2HM3F
+[2017.03.04-19.07.25:380][  0]LogInit: User: hunte
+[2017.03.04-19.07.25:380][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.04-19.07.25:380][  0]LogInit: High frequency timer resolution =3.320332 MHz
+[2017.03.04-19.07.25:380][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.03.04-19.07.25:380][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.04-19.07.25:380][  0]LogMemory: Process Physical Memory: 256.03 MB used, 256.03 MB peak
+[2017.03.04-19.07.25:380][  0]LogMemory: Process Virtual Memory: 259.87 MB used, 259.87 MB peak
+[2017.03.04-19.07.25:380][  0]LogMemory: Physical Memory: 5367.58 MB used, 8076.40 MB total
+[2017.03.04-19.07.25:380][  0]LogMemory: Virtual Memory: 622.36 MB used, 134217728.00 MB total
+[2017.03.04-19.07.25:603][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.03.04-19.07.28:719][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.04-19.07.28:743][  0]LogD3D11RHI:    0. 'Radeon (TM) RX 480 Graphics' (Feature Level 11_0)
+[2017.03.04-19.07.28:743][  0]LogD3D11RHI:       8140/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.03.04-19.07.28:747][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2017.03.04-19.07.28:747][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.04-19.07.28:749][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.04-19.07.28:749][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.04-19.07.28:749][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.04-19.07.28:753][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.04-19.07.28:753][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2017.03.04-19.07.28:753][  0]LogWindows: EnumDisplayDevices:
+[2017.03.04-19.07.28:753][  0]LogWindows:    0. 'Radeon (TM) RX 480 Graphics' (P:1 D:1)
+[2017.03.04-19.07.28:754][  0]LogWindows:    1. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.03.04-19.07.28:754][  0]LogWindows:    2. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.03.04-19.07.28:754][  0]LogWindows:    3. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.03.04-19.07.28:754][  0]LogWindows:    4. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.03.04-19.07.28:754][  0]LogWindows:    5. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.03.04-19.07.28:755][  0]LogWindows:    6. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.03.04-19.07.28:755][  0]LogWindows:    7. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.03.04-19.07.28:755][  0]LogWindows:    8. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.03.04-19.07.28:755][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2017.03.04-19.07.28:755][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) RX 480 Graphics
+[2017.03.04-19.07.28:755][  0]LogD3D11RHI:   Driver Version: Crimson 16.6 (internal:21.19.137.514, unified:21.19.137.514)
+[2017.03.04-19.07.28:755][  0]LogD3D11RHI:      Driver Date: 11-21-2016
+[2017.03.04-19.07.28:755][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.04-19.07.28:773][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.04-19.07.28:784][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2017.03.04-19.07.28:785][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (C:/Users/hunte/DataRange/DataRange/Intermediate/Shaders/WorkingDirectory/12984/).
+[2017.03.04-19.07.28:785][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hunte/AppData/Local/Temp/UnrealShaderWorkingDir/F15A3BEA4A7FA169DB0088896561E5A3/'.
+[2017.03.04-19.07.28:785][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.04-19.07.31:254][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.04-19.07.31:264][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.04-19.07.31:273][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.04-19.07.31:282][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.04-19.07.31:292][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.04-19.07.31:308][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.04-19.07.31:316][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.04-19.07.31:323][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.04-19.07.31:331][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.04-19.07.31:338][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.04-19.07.31:346][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.04-19.07.31:362][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.04-19.07.31:362][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.04-19.07.31:363][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.04-19.07.31:449][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.04-19.07.31:457][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.04-19.07.31:464][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.04-19.07.31:471][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.04-19.07.31:478][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.04-19.07.31:505][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.04-19.07.31:505][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.04-19.07.31:982][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.04-19.07.32:488][  0]LogDerivedDataCache: Loaded boot cache 0.51s 88MB C:/Users/hunte/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.04-19.07.32:488][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/hunte/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.03.04-19.07.32:488][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/hunte/DataRange/DataRange/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.04-19.07.32:488][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.04-19.07.32:489][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/hunte/DataRange/DataRange/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.04-19.07.32:489][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.04-19.07.32:505][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.04-19.07.32:517][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hunte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.04-19.07.36:884][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.04-19.07.36:887][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.04-19.07.37:016][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.03.04-19.07.37:016][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.04-19.07.37:016][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.03.04-19.07.37:123][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.04-19.07.37:517][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: datarange, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 1491704210
+[2017.03.04-19.07.37:578][  0]LogAssetRegistry: FAssetRegistry took 0.0212 seconds to start up
+[2017.03.04-19.07.37:603][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.022000 seconds
+[2017.03.04-19.07.37:608][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2017.03.04-19.07.37:608][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2017.03.04-19.07.37:608][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.04-19.07.37:616][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.04-19.07.40:530][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.04-19.07.40:530][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.04-19.08.02:238][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.04-19.08.02:319][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.04-19.08.03:418][  0]SourceControl: Info Source control is disabled
+[2017.03.04-19.08.03:419][  0]SourceControl: Info Source control is disabled
+[2017.03.04-19.08.03:470][  0]SourceControl: Info Source control is disabled
+[2017.03.04-19.08.03:563][  0]SourceControl: Info Source control is disabled
+[2017.03.04-19.08.05:509][  0]LogEngine: Initializing Engine...
+[2017.03.04-19.08.06:150][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-1BA75C06
+[2017.03.04-19.08.06:344][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.04-19.08.06:382][  0]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.04-19.08.06:398][  0]LogInit: FAudioDevice initialized.
+[2017.03.04-19.08.06:447][  0]LogDerivedDataCache: Saved boot cache 0.05s 88MB C:/Users/hunte/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.04-19.08.06:457][  0]LogInit: Texture streaming: Enabled
+[2017.03.04-19.08.06:732][  0]LogInit: Transaction tracking system initialized
+[2017.03.04-19.08.06:928][  0]BlueprintLog: New page: Editor Load
+[2017.03.04-19.08.07:864][  0]LocalizationService: Info Localization service is disabled
+[2017.03.04-19.08.08:629][  0]LogConsoleResponse:Display: 
+[2017.03.04-19.08.09:210][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hunte/DataRange/DataRange/Content/' took 0.01s
+[2017.03.04-19.08.09:210][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.04-19.08.09:210][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.04-19.08.11:450][  0]SourceControl: Info Source control is disabled
+[2017.03.04-19.08.11:721][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic Games/4.13/FeaturePacks/StarterContent.upack)
+[2017.03.04-19.08.12:092][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.03.04-19.08.12:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.03.04-19.08.12:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.03.04-19.08.12:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.03.04-19.08.12:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.03.04-19.08.12:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.03.04-19.08.12:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.03.04-19.08.12:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.03.04-19.08.12:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.03.04-19.08.12:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.03.04-19.08.12:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.03.04-19.08.12:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.03.04-19.08.12:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.03.04-19.08.12:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.03.04-19.08.12:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.03.04-19.08.12:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.03.04-19.08.12:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.03.04-19.08.12:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.03.04-19.08.12:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Fire01.uasset"
+[2017.03.04-19.08.12:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.03.04-19.08.12:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.03.04-19.08.12:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.03.04-19.08.12:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Light01.uasset"
+[2017.03.04-19.08.12:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.03.04-19.08.12:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Light02.uasset"
+[2017.03.04-19.08.12:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.03.04-19.08.13:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.03.04-19.08.13:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.03.04-19.08.13:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.03.04-19.08.13:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.03.04-19.08.13:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.03.04-19.08.13:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.03.04-19.08.13:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.03.04-19.08.13:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.03.04-19.08.13:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Steam01.uasset"
+[2017.03.04-19.08.13:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.03.04-19.08.13:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.03.04-19.08.13:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.03.04-19.08.13:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.03.04-19.08.13:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.03.04-19.08.13:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.03.04-19.08.13:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.03.04-19.08.13:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.03.04-19.08.13:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.03.04-19.08.13:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.03.04-19.08.13:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.03.04-19.08.13:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.03.04-19.08.13:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.03.04-19.08.13:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.03.04-19.08.13:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.03.04-19.08.13:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.03.04-19.08.13:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.03.04-19.08.29:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.03.04-19.08.29:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.03.04-19.08.29:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.03.04-19.08.30:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Maps/StarterMap.umap"
+[2017.03.04-19.08.30:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.03.04-19.08.30:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.03.04-19.08.30:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.03.04-19.08.30:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.03.04-19.08.30:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.03.04-19.08.30:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.03.04-19.08.30:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.03.04-19.08.30:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.03.04-19.08.30:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.03.04-19.08.30:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.03.04-19.08.30:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.03.04-19.08.30:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.03.04-19.08.30:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.03.04-19.08.30:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.03.04-19.08.30:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.03.04-19.08.30:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.03.04-19.08.30:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.03.04-19.08.30:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.03.04-19.08.30:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.03.04-19.08.30:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.03.04-19.08.30:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.03.04-19.08.30:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.03.04-19.08.30:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.03.04-19.08.30:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.03.04-19.08.30:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.03.04-19.08.30:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.03.04-19.08.30:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.03.04-19.08.30:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.03.04-19.08.30:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.03.04-19.08.30:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.03.04-19.08.30:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.03.04-19.08.30:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.03.04-19.08.30:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.03.04-19.08.30:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.03.04-19.08.30:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.03.04-19.08.30:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.03.04-19.08.30:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.03.04-19.08.30:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.03.04-19.08.30:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.03.04-19.08.30:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.03.04-19.08.30:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.03.04-19.08.30:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.03.04-19.08.30:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.03.04-19.08.30:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.03.04-19.08.30:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.03.04-19.08.30:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.03.04-19.08.30:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.03.04-19.08.30:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.03.04-19.08.30:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.03.04-19.08.30:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.03.04-19.08.30:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.03.04-19.08.30:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.03.04-19.08.30:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.03.04-19.08.31:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.03.04-19.08.31:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.03.04-19.08.31:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.03.04-19.08.31:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.03.04-19.08.31:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.03.04-19.08.31:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.03.04-19.08.31:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.03.04-19.08.31:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.03.04-19.08.31:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.03.04-19.08.31:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.03.04-19.08.31:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.03.04-19.08.31:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_Door.uasset"
+[2017.03.04-19.08.31:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.03.04-19.08.31:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.03.04-19.08.31:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.03.04-19.08.31:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.03.04-19.08.31:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.03.04-19.08.31:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.03.04-19.08.31:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.03.04-19.08.31:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.03.04-19.08.31:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.03.04-19.08.31:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.03.04-19.08.31:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.03.04-19.08.31:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.03.04-19.08.31:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.03.04-19.08.31:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.03.04-19.08.31:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.03.04-19.08.31:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.03.04-19.08.31:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.03.04-19.08.31:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.03.04-19.08.31:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.03.04-19.08.31:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.03.04-19.08.31:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.03.04-19.08.31:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.03.04-19.08.31:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.03.04-19.08.31:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.03.04-19.08.31:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.03.04-19.08.31:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.03.04-19.08.31:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.03.04-19.08.31:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.03.04-19.08.31:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.03.04-19.08.31:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.03.04-19.08.31:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.03.04-19.08.31:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.03.04-19.08.31:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.03.04-19.08.31:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.03.04-19.08.31:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.03.04-19.08.31:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.03.04-19.08.31:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.03.04-19.08.31:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.03.04-19.08.31:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.03.04-19.08.31:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.03.04-19.08.31:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.03.04-19.08.31:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.03.04-19.08.31:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.03.04-19.08.31:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.03.04-19.08.31:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.03.04-19.08.31:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.03.04-19.08.31:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.03.04-19.08.32:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.03.04-19.08.32:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.03.04-19.08.32:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.03.04-19.08.32:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.03.04-19.08.32:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.03.04-19.08.32:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.03.04-19.08.32:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.03.04-19.08.32:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.03.04-19.08.32:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.03.04-19.08.32:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.03.04-19.08.32:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.03.04-19.08.32:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.03.04-19.08.32:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.03.04-19.08.32:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.03.04-19.08.32:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.03.04-19.08.32:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.03.04-19.08.32:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.03.04-19.08.32:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.03.04-19.08.33:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.03.04-19.08.33:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.03.04-19.08.33:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.03.04-19.08.33:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.03.04-19.08.33:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.03.04-19.08.33:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.03.04-19.08.33:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.03.04-19.08.33:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.03.04-19.08.33:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.03.04-19.08.33:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.03.04-19.08.33:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.03.04-19.08.33:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.03.04-19.08.33:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.03.04-19.08.33:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.03.04-19.08.33:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.03.04-19.08.34:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.03.04-19.08.34:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.03.04-19.08.34:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.03.04-19.08.34:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.03.04-19.08.34:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.03.04-19.08.34:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.03.04-19.08.34:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.03.04-19.08.34:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.03.04-19.08.34:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.03.04-19.08.34:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.03.04-19.08.34:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.03.04-19.08.34:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.03.04-19.08.34:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.03.04-19.08.35:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.03.04-19.08.35:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.03.04-19.08.35:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.03.04-19.08.35:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.03.04-19.08.35:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.03.04-19.08.35:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.03.04-19.08.35:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.03.04-19.08.35:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.03.04-19.08.35:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.03.04-19.08.35:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.03.04-19.08.35:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.03.04-19.08.35:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.03.04-19.08.35:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.03.04-19.08.36:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.03.04-19.08.36:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.03.04-19.08.36:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.03.04-19.08.36:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.03.04-19.08.36:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.03.04-19.08.36:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.03.04-19.08.36:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.03.04-19.08.36:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.03.04-19.08.36:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.03.04-19.08.36:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.03.04-19.08.36:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.03.04-19.08.36:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.03.04-19.08.36:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.03.04-19.08.37:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.03.04-19.08.37:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.03.04-19.08.37:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.03.04-19.08.37:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.03.04-19.08.37:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.03.04-19.08.37:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.03.04-19.08.37:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.03.04-19.08.37:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.03.04-19.08.37:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.03.04-19.08.37:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.03.04-19.08.37:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.03.04-19.08.37:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.03.04-19.08.37:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.03.04-19.08.37:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.03.04-19.08.37:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.03.04-19.08.37:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.03.04-19.08.37:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.03.04-19.08.37:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.03.04-19.08.37:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.03.04-19.08.37:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.03.04-19.08.37:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.03.04-19.08.37:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.03.04-19.08.37:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.03.04-19.08.37:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.03.04-19.08.38:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.03.04-19.08.38:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.03.04-19.08.38:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.03.04-19.08.38:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.03.04-19.08.39:100][  0]LogRenderer: Reallocating scene render targets to support 256x256 (Frame:2).
+[2017.03.04-19.08.39:329][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2017.03.04-19.08.39:577][  0]LogSavePackage: Save=194.04ms
+[2017.03.04-19.08.39:578][  0]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/Floor_400x400412C336C44866E68584621AFAE2C8E99.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.03.04-19.08.39:583][  0]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.03.04-19.08.39:583][  0]LogFeaturePack:Warning: Inserted 1 feature packs
+[2017.03.04-19.08.39:588][  0]Cmd: MAP LOAD FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.04-19.08.39:589][  0]LightingResults: New page: Lighting Build
+[2017.03.04-19.08.39:592][  0]MapCheck: New page: Map Check
+[2017.03.04-19.08.39:592][  0]LightingResults: New page: Lighting Build
+[2017.03.04-19.08.39:826][  0]LogAIModule: Creating AISystem for world StartupMap
+[2017.03.04-19.08.40:083][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.04-19.08.40:083][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.04-19.08.40:142][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 58.892ms to complete.
+[2017.03.04-19.08.40:142][  0]LogFileHelpers: Loading map 'StartupMap' took 0.555
+[2017.03.04-19.08.40:945][  0]LogCollectionManager: Loaded 0 collections in 0.002237 seconds
+[2017.03.04-19.08.41:125][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hunte/DataRange/DataRange/Saved/Collections/' took 0.01s
+[2017.03.04-19.08.41:125][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hunte/DataRange/DataRange/Content/Developers/hunte/Collections/' took 0.01s
+[2017.03.04-19.08.41:125][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hunte/DataRange/DataRange/Content/Collections/' took 0.01s
+[2017.03.04-19.08.41:125][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2017.03.04-19.08.41:148][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2141 classes and 415 folders.
+[2017.03.04-19.08.41:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.04-19.08.41:290][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.04-19.08.41:298][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 12 classes and 0 folders.
+[2017.03.04-19.08.41:322][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.04-19.08.41:380][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.04-19.08.41:456][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.03.04-19.08.41:796][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.04-19.08.42:062][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.04-19.08.42:149][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.03.04-19.08.42:149][  0]LogLoad: (Engine Initialization) Total time: 79.17 seconds
+[2017.03.04-19.08.42:149][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.09 seconds
+[2017.03.04-19.08.42:149][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.04-19.08.42:149][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.04-19.08.42:158][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.04-19.08.42:158][  0]LogOcInput: OculusInput pre-init called
+[2017.03.04-19.08.42:397][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.04-19.08.43:179][  0]LogRenderer: Reallocating scene render targets to support 1528x576 (Frame:3).
+[2017.03.04-19.08.43:376][  2]LogAssetRegistry: Asset discovery search completed in 65.8191 seconds
+[2017.03.04-19.0
