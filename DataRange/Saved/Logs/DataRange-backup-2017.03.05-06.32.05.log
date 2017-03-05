@@ -1,0 +1,1053 @@
+﻿Log file open, 03/05/17 06:04:35
+LogInit:Display: Running engine for game: DataRange
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-921568126) SRandInit(-921568126).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.077745
+LogPluginManager: Loaded Plugin Paper2D, From D:/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From D:/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: D:/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.05-11.04.35:779][  0]LogConsoleManager:Display: Setting the console variable 'r.RHICmdBypass' with 'SetByProjectSetting' was ignored as it is lower priority than the previous 'SetBySystemSettingsIni'
+[2017.03.05-11.04.35:786][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.05-11.04.35:786][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.05-11.04.35:796][  0]LogInit: Computer: DESKTOP-1O2HM3F
+[2017.03.05-11.04.35:796][  0]LogInit: User: hunte
+[2017.03.05-11.04.35:796][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.05-11.04.35:796][  0]LogInit: High frequency timer resolution =3.320332 MHz
+[2017.03.05-11.04.35:797][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.03.05-11.04.35:797][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.05-11.04.35:797][  0]LogMemory: Process Physical Memory: 256.36 MB used, 256.36 MB peak
+[2017.03.05-11.04.35:797][  0]LogMemory: Process Virtual Memory: 259.97 MB used, 259.97 MB peak
+[2017.03.05-11.04.35:797][  0]LogMemory: Physical Memory: 5712.52 MB used, 8076.40 MB total
+[2017.03.05-11.04.35:797][  0]LogMemory: Virtual Memory: 622.36 MB used, 134217728.00 MB total
+[2017.03.05-11.04.35:824][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.03.05-11.04.36:512][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.05-11.04.36:536][  0]LogD3D11RHI:    0. 'Radeon (TM) RX 480 Graphics' (Feature Level 11_0)
+[2017.03.05-11.04.36:536][  0]LogD3D11RHI:       8140/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2017.03.05-11.04.36:540][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2017.03.05-11.04.36:540][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.05-11.04.36:541][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.05-11.04.36:541][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.05-11.04.36:541][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.05-11.04.36:546][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.05-11.04.36:546][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2017.03.05-11.04.36:546][  0]LogWindows: EnumDisplayDevices:
+[2017.03.05-11.04.36:546][  0]LogWindows:    0. 'Radeon (TM) RX 480 Graphics' (P:0 D:1)
+[2017.03.05-11.04.36:546][  0]LogWindows:    1. 'Radeon (TM) RX 480 Graphics' (P:1 D:1)
+[2017.03.05-11.04.36:546][  0]LogWindows:    2. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.03.05-11.04.36:547][  0]LogWindows:    3. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.03.05-11.04.36:547][  0]LogWindows:    4. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.03.05-11.04.36:547][  0]LogWindows:    5. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2017.03.05-11.04.36:547][  0]LogWindows:    6. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.03.05-11.04.36:547][  0]LogWindows:    7. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.03.05-11.04.36:548][  0]LogWindows:    8. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.03.05-11.04.36:548][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2017.03.05-11.04.36:548][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) RX 480 Graphics
+[2017.03.05-11.04.36:548][  0]LogD3D11RHI:   Driver Version: Crimson 16.6 (internal:21.19.137.514, unified:21.19.137.514)
+[2017.03.05-11.04.36:548][  0]LogD3D11RHI:      Driver Date: 11-21-2016
+[2017.03.05-11.04.36:548][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.05-11.04.36:565][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.05-11.04.36:576][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2017.03.05-11.04.36:577][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (C:/Users/hunte/DataRange/DataRange/Intermediate/Shaders/WorkingDirectory/9568/).
+[2017.03.05-11.04.36:577][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/hunte/AppData/Local/Temp/UnrealShaderWorkingDir/F1FA83174079E6D2C9C86BA72E7644E1/'.
+[2017.03.05-11.04.36:577][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.05-11.04.37:521][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.05-11.04.37:529][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.05-11.04.37:538][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.05-11.04.37:547][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.05-11.04.37:556][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.05-11.04.37:563][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.05-11.04.37:570][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.05-11.04.37:578][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.05-11.04.37:584][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.05-11.04.37:591][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.05-11.04.37:598][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.05-11.04.37:612][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.05-11.04.37:612][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.05-11.04.37:613][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.05-11.04.37:633][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.05-11.04.37:639][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.05-11.04.37:647][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.05-11.04.37:654][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.05-11.04.37:661][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.05-11.04.37:668][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.05-11.04.37:668][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.05-11.04.37:763][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.05-11.04.37:831][  0]LogDerivedDataCache: Loaded boot cache 0.07s 88MB C:/Users/hunte/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.05-11.04.37:831][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/hunte/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.03.05-11.04.37:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/hunte/DataRange/DataRange/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.05-11.04.37:831][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.05-11.04.37:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/hunte/DataRange/DataRange/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.05-11.04.37:831][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.05-11.04.37:848][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.05-11.04.37:860][  0]LogDerivedDataCache: Using Local data cache path C:/Users/hunte/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.05-11.04.38:097][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.05-11.04.38:100][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.05-11.04.38:209][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.03.05-11.04.38:209][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.05-11.04.38:209][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.03.05-11.04.38:282][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.05-11.04.38:571][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: datarange, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 1491704210
+[2017.03.05-11.04.38:609][  0]LogAssetRegistry: FAssetRegistry took 0.0213 seconds to start up
+[2017.03.05-11.04.38:633][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.021293 seconds
+[2017.03.05-11.04.38:638][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2017.03.05-11.04.38:638][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2017.03.05-11.04.38:638][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.05-11.04.38:647][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.05-11.04.38:866][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.05-11.04.38:866][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.05-11.04.39:642][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.05-11.04.39:666][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.05-11.04.39:929][  0]SourceControl: Info Source control is disabled
+[2017.03.05-11.04.39:930][  0]SourceControl: Info Source control is disabled
+[2017.03.05-11.04.39:944][  0]SourceControl: Info Source control is disabled
+[2017.03.05-11.04.39:958][  0]SourceControl: Info Source control is disabled
+[2017.03.05-11.04.40:363][  0]LogEngine: Initializing Engine...
+[2017.03.05-11.04.40:939][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-1BA75C06
+[2017.03.05-11.04.41:085][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.05-11.04.41:121][  0]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.05-11.04.41:136][  0]LogInit: FAudioDevice initialized.
+[2017.03.05-11.04.41:179][  0]LogDerivedDataCache: Saved boot cache 0.04s 65MB C:/Users/hunte/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.05-11.04.41:190][  0]LogInit: Texture streaming: Enabled
+[2017.03.05-11.04.41:217][  0]LogInit: Transaction tracking system initialized
+[2017.03.05-11.04.41:243][  0]BlueprintLog: New page: Editor Load
+[2017.03.05-11.04.41:328][  0]LocalizationService: Info Localization service is disabled
+[2017.03.05-11.04.41:421][  0]LogConsoleResponse:Display: 
+[2017.03.05-11.04.41:526][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.05-11.04.41:526][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.05-11.04.41:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hunte/DataRange/DataRange/Content/' took 0.02s
+[2017.03.05-11.04.41:731][  0]SourceControl: Info Source control is disabled
+[2017.03.05-11.04.41:731][  0]Cmd: MAP LOAD FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.05-11.04.41:731][  0]LogEditorServer:Warning: Can't find file 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2017.03.05-11.04.41:731][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.05-11.04.41:779][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 47.658ms to complete.
+[2017.03.05-11.04.41:779][  0]LogFileHelpers: Loading map 'StartupMap' took 0.048
+[2017.03.05-11.04.41:914][  0]LogCollectionManager: Loaded 0 collections in 0.002380 seconds
+[2017.03.05-11.04.41:958][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hunte/DataRange/DataRange/Saved/Collections/' took 0.01s
+[2017.03.05-11.04.41:958][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hunte/DataRange/DataRange/Content/Developers/hunte/Collections/' took 0.01s
+[2017.03.05-11.04.41:958][  0]LogFileCache: Scanning file cache for directory 'C:/Users/hunte/DataRange/DataRange/Content/Collections/' took 0.01s
+[2017.03.05-11.04.41:958][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2017.03.05-11.04.41:968][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2141 classes and 415 folders.
+[2017.03.05-11.04.41:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.05-11.04.41:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.05-11.04.41:973][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 12 classes and 0 folders.
+[2017.03.05-11.04.41:978][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.05-11.04.42:038][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.03.05-11.04.42:044][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.03.05-11.04.42:060][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.05-11.04.42:064][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.05-11.04.42:092][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.03.05-11.04.42:092][  0]LogLoad: (Engine Initialization) Total time: 7.36 seconds
+[2017.03.05-11.04.42:092][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.01 seconds
+[2017.03.05-11.04.42:092][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.05-11.04.42:092][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.05-11.04.42:101][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.05-11.04.42:102][  0]LogOcInput: OculusInput pre-init called
+[2017.03.05-11.04.42:178][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.05-11.04.42:336][  0]LogRenderer: Reallocating scene render targets to support 1528x576 (Frame:2).
+[2017.03.05-11.04.42:391][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/hunte/DataRange/DataRange/Content/' took 0.28s
+[2017.03.05-11.04.51:527][ 81]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.03.05-11.04.53:151][274]LogAssetRegistry: Asset discovery search completed in 14.5629 seconds
+[2017.03.05-11.04.53:151][274]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2017.03.05-11.05.04:130][530]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.03.05-11.05.04:296][530]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.03.05-11.05.04:371][530]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.03.05-11.05.04:419][530]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.03.05-11.05.04:471][530]LogTexture:Display: Building textures: BeamPulse (AutoDXT)
+[2017.03.05-11.05.04:493][530]LogTexture:Display: Building textures: BaseBeam (AutoDXT)
+[2017.03.05-11.05.04:506][530]LogMaterial: Missing cached shader map for material LightningMaterial, compiling. 
+[2017.03.05-11.05.04:627][530]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2017.03.05-11.05.04:648][530]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2017.03.05-11.05.04:667][530]LogStaticMesh: Building static mesh VRbombLEFT...
+[2017.03.05-11.05.05:057][530]LogStaticMesh: Built static mesh [0.39s] /Game/imports/Bomb/VRbombLEFT.VRbombLEFT
+[2017.03.05-11.05.05:057][530]LogStaticMesh: Building static mesh VRbombRIGHT...
+[2017.03.05-11.05.05:104][530]LogStaticMesh: Built static mesh [0.05s] /Game/imports/Bomb/VRbombRIGHT.VRbombRIGHT
+[2017.03.05-11.05.05:104][530]LogStaticMesh: Building static mesh VRenvironment...
+[2017.03.05-11.05.05:123][530]LogStaticMesh: Built static mesh [0.02s] /Game/imports/Environment/VRenvironment.VRenvironment
+[2017.03.05-11.05.05:123][530]LogStaticMesh: Building static mesh VRenvironment2...
+[2017.03.05-11.05.05:140][530]LogStaticMesh: Built static mesh [0.02s] /Game/imports/Environment/VRenvironment2.VRenvironment2
+[2017.03.05-11.05.05:140][530]LogStaticMesh: Building static mesh Wall1...
+[2017.03.05-11.05.05:257][530]LogStaticMesh: Built static mesh [0.12s] /Game/imports/Environment/Wall1.Wall1
+[2017.03.05-11.05.05:257][530]LogStaticMesh: Building static mesh Wall3...
+[2017.03.05-11.05.05:263][530]LogStaticMesh: Built static mesh [0.01s] /Game/imports/Environment/Wall3.Wall3
+[2017.03.05-11.05.05:264][530]LogStaticMesh: Building static mesh Wall2...
+[2017.03.05-11.05.05:271][530]LogStaticMesh: Built static mesh [0.01s] /Game/imports/Environment/Wall2.Wall2
+[2017.03.05-11.05.05:316][530]LogMaterial: Missing cached shader map for material gunHandle, compiling. 
+[2017.03.05-11.05.05:760][530]LogTexture:Display: Building textures: T_Metal_Copper_D (AutoDXT)
+[2017.03.05-11.05.11:314][530]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.03.05-11.05.11:340][530]LogMaterial: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2017.03.05-11.05.11:382][530]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.03.05-11.05.11:440][530]Cmd: MAP LOAD FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.05-11.05.11:440][530]LightingResults: New page: Lighting Build
+[2017.03.05-11.05.11:444][530]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 5 classes and 0 folders.
+[2017.03.05-11.05.11:445][530]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2017.03.05-11.05.11:445][530]MapCheck: New page: Map Check
+[2017.03.05-11.05.11:445][530]LightingResults: New page: Lighting Build
+[2017.03.05-11.05.11:462][530]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.05-11.05.11:516][530]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.05-11.05.11:581][530]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 65.755ms to complete.
+[2017.03.05-11.05.11:581][530]LogFileHelpers: Loading map 'MotionControllerMap' took 0.141
+[2017.03.05-11.05.34:650][ 97]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2017.03.05-11.06.06:632][479]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/TargetSpawnerY.TargetSpawnerY:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/TargetSpawner.PackageMetaData'
+[2017.03.05-11.06.06:632][479]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/TargetSpawnerY.TargetSpawnerY_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/TargetSpawner.PackageMetaData'
+[2017.03.05-11.06.06:632][479]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/TargetSpawnerY.TargetSpawnerY:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/TargetSpawner.PackageMetaData'
+[2017.03.05-11.06.06:632][479]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/TargetSpawnerY.TargetSpawnerY:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/TargetSpawner.PackageMetaData'
+[2017.03.05-11.06.06:632][479]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/TargetSpawnerY.TargetSpawnerY:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VirtualRealityBP/Blueprints/TargetSpawner.PackageMetaData'
+[2017.03.05-11.06.06:632][479]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/TargetSpawnerY.SKEL_TargetSpawnerY_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/TargetSpawner.PackageMetaData'
+[2017.03.05-11.06.06:670][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/TargetSpawnerY" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset" SILENT=true
+[2017.03.05-11.06.06:692][479]LogSavePackage: Save=20.24ms
+[2017.03.05-11.06.06:692][479]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/TargetSpawnerYDB00089A4ADB2F11A52C839E0EECA064.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset'
+[2017.03.05-11.06.06:696][479]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset
+[2017.03.05-11.06.14:921][185]LogSavePackage: Save=192.82ms
+[2017.03.05-11.06.14:921][185]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMap5FC80A23419ACB3A9F29D798BDB6FFE2.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.06.14:923][185]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.06.14:956][185]LogFileHelpers: Saving map 'MotionControllerMap' took 0.310
+[2017.03.05-11.06.52:998][579]LogEditorViewport: Clicking Background
+[2017.03.05-11.06.53:648][623]LogSavePackage: Save=172.06ms
+[2017.03.05-11.06.53:648][623]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMap6860B9334A0C2ED4A60A56A094339967.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.06.53:650][623]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.06.53:669][623]LogFileHelpers: Saving map 'MotionControllerMap' took 0.271
+[2017.03.05-11.06.54:638][686]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 112 classes and 0 folders.
+[2017.03.05-11.08.04:610][274]LogRenderer: Reallocating scene render targets to support 1528x712 (Frame:19563).
+[2017.03.05-11.08.35:938][157]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.05-11.09.52:334][880]LogMaterial: Missing cached shader map for material M_Simple_Glow, compiling. 
+[2017.03.05-11.09.52:366][880]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2017.03.05-11.10.06:069][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/TargetSpawnerY" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset" SILENT=true
+[2017.03.05-11.10.06:113][922]LogSavePackage: Save=19.74ms
+[2017.03.05-11.10.06:113][922]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/TargetSpawnerYF8C4E9D1459D0139E05AF6B34D9F81A7.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset'
+[2017.03.05-11.10.06:116][922]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset
+[2017.03.05-11.10.06:155][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.10.06:179][922]LogSavePackage: Save=22.46ms
+[2017.03.05-11.10.06:179][922]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1A70A88D043527BF5F99C92A638F6B809.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.10.06:181][922]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.10.22:159][183]BlueprintLog: New page: Compile BP_Target1
+[2017.03.05-11.10.44:053][959]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume10)
+[2017.03.05-11.10.50:497][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:498][421]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2017.03.05-11.10.50:499][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:500][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:500][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:501][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:502][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:502][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:503][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:504][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:504][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:505][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:505][421]LogEditorActor: Deleted Actor: NavModifierVolume
+[2017.03.05-11.10.50:520][421]LogEditorActor: Deleted 13 Actors (0.063 secs)
+[2017.03.05-11.10.51:587][486]LogSavePackage: Save=187.72ms
+[2017.03.05-11.10.51:587][486]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMap9763340145C201B182CF7FB05078E654.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.10.51:589][486]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.10.51:607][486]LogFileHelpers: Saving map 'MotionControllerMap' took 0.301
+[2017.03.05-11.11.02:748][343]Cmd: DELETE
+[2017.03.05-11.11.02:748][343]Cmd: ACTOR DELETE
+[2017.03.05-11.11.02:761][343]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.02:859][343]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2017.03.05-11.11.04:217][451]Cmd: DELETE
+[2017.03.05-11.11.04:217][451]Cmd: ACTOR DELETE
+[2017.03.05-11.11.04:218][451]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.04:237][451]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.03.05-11.11.04:956][514]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel2)
+[2017.03.05-11.11.05:540][553]Cmd: DELETE
+[2017.03.05-11.11.05:540][553]Cmd: ACTOR DELETE
+[2017.03.05-11.11.05:541][553]LogEditorActor: Deleted Actor: TextRenderActor
+[2017.03.05-11.11.05:556][553]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2017.03.05-11.11.06:859][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2017.03.05-11.11.07:405][689]Cmd: DELETE
+[2017.03.05-11.11.07:405][689]Cmd: ACTOR DELETE
+[2017.03.05-11.11.07:406][689]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.03.05-11.11.07:421][689]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.03.05-11.11.08:422][777]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel3)
+[2017.03.05-11.11.09:106][826]Cmd: DELETE
+[2017.03.05-11.11.09:106][826]Cmd: ACTOR DELETE
+[2017.03.05-11.11.09:107][826]LogEditorActor: Deleted Actor: TextRenderActor
+[2017.03.05-11.11.09:121][826]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2017.03.05-11.11.09:914][896]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2017.03.05-11.11.10:532][940]Cmd: DELETE
+[2017.03.05-11.11.10:532][940]Cmd: ACTOR DELETE
+[2017.03.05-11.11.10:533][940]LogEditorActor: Deleted Actor: TextRenderActor
+[2017.03.05-11.11.10:547][940]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2017.03.05-11.11.11:176][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (VRbombLEFT)
+[2017.03.05-11.11.12:590][ 97]Cmd: DELETE
+[2017.03.05-11.11.12:590][ 97]Cmd: ACTOR DELETE
+[2017.03.05-11.11.12:591][ 97]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.03.05-11.11.12:606][ 97]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2017.03.05-11.11.13:328][161]LogEditorViewport: Clicking on Actor (LMB): Note (Bomb)
+[2017.03.05-11.11.14:088][216]Cmd: DELETE
+[2017.03.05-11.11.14:088][216]Cmd: ACTOR DELETE
+[2017.03.05-11.11.14:089][216]LogEditorActor: Deleted Actor: Note
+[2017.03.05-11.11.14:103][216]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2017.03.05-11.11.14:579][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (VRbombRIGHT)
+[2017.03.05-11.11.14:703][264]Cmd: DELETE
+[2017.03.05-11.11.14:703][264]Cmd: ACTOR DELETE
+[2017.03.05-11.11.14:704][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.03.05-11.11.14:719][264]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2017.03.05-11.11.15:418][325]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2017.03.05-11.11.16:917][424]Cmd: DELETE
+[2017.03.05-11.11.16:918][424]Cmd: ACTOR DELETE
+[2017.03.05-11.11.16:919][424]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.16:937][424]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.03.05-11.11.17:778][497]LogEditorViewport: Clicking Background
+[2017.03.05-11.11.18:506][561]LogEditorViewport: Clicking Background
+[2017.03.05-11.11.25:621][ 93]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.25:622][ 93]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.25:623][ 93]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.25:623][ 93]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.25:624][ 93]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.25:640][ 93]LogEditorActor: Deleted 5 Actors (0.020 secs)
+[2017.03.05-11.11.26:904][203]Cmd: TRANSACTION UNDO
+[2017.03.05-11.11.26:904][203]LogEditorTransaction: Undo Delete selection
+[2017.03.05-11.11.32:952][630]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.32:953][630]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.32:953][630]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.32:954][630]LogEditorActor: Deleted Actor: Brush
+[2017.03.05-11.11.32:970][630]LogEditorActor: Deleted 4 Actors (0.019 secs)
+[2017.03.05-11.11.34:325][727]LogSavePackage: Save=109.62ms
+[2017.03.05-11.11.34:326][727]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMapD4905AE34EB41A2185EFF48A62D2DEA7.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.11.34:328][727]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.11.34:348][727]LogFileHelpers: Saving map 'MotionControllerMap' took 0.225
+[2017.03.05-11.11.38:463][ 82]LogEditorViewport: Clicking Background
+[2017.03.05-11.11.41:572][349]LogEditorViewport: Clicking on Actor (LMB): TargetSpawnerY_C (TargetSpawnerY)
+[2017.03.05-11.11.43:630][483]LogSavePackage: Save=107.10ms
+[2017.03.05-11.11.43:630][483]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMap060909C3440288D5810EF8B76723F0E1.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.11.43:632][483]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.11.43:651][483]LogFileHelpers: Saving map 'MotionControllerMap' took 0.219
+[2017.03.05-11.12.02:530][887]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.05-11.12.07:770][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.12.07:807][302]LogSavePackage: Save=19.94ms
+[2017.03.05-11.12.07:807][302]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1258C21914009FC8A1996448B1757EC66.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.12.07:809][302]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.12.21:684][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/TargetSpawnerY" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset" SILENT=true
+[2017.03.05-11.12.21:713][349]LogSavePackage: Save=16.50ms
+[2017.03.05-11.12.21:713][349]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/TargetSpawnerY381FE2104FC9C17D5073F8A3A87F42A6.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset'
+[2017.03.05-11.12.21:716][349]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset
+[2017.03.05-11.12.24:880][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/TargetSpawnerY" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset" SILENT=true
+[2017.03.05-11.12.24:907][582]LogSavePackage: Save=15.66ms
+[2017.03.05-11.12.24:908][582]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/TargetSpawnerY45C9975C4432F848695A90943633939F.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset'
+[2017.03.05-11.12.24:910][582]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset
+[2017.03.05-11.13.18:577][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.13.18:611][581]LogSavePackage: Save=21.22ms
+[2017.03.05-11.13.18:611][581]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1A99DE44E4FF1468322FE7D93CD267A78.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.13.18:614][581]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.13.53:310][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.13.53:347][332]LogSavePackage: Save=21.88ms
+[2017.03.05-11.13.53:348][332]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target14AC325B14D81BAD6F1306B886E87F6EA.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.13.53:350][332]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.15.12:931][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.15.12:967][782]LogSavePackage: Save=23.04ms
+[2017.03.05-11.15.12:967][782]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1B5FB1B714FAEB21A3BB20883E354B0F0.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.15.12:971][782]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.15.18:519][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.15.18:554][228]LogSavePackage: Save=22.79ms
+[2017.03.05-11.15.18:554][228]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1CBD8E6514C2F41F3346C4293FB20E491.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.15.18:556][228]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.15.20:616][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.15.20:652][389]LogSavePackage: Save=22.07ms
+[2017.03.05-11.15.20:652][389]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target106CCADCF4E80EA37DB2CAE8E6A35DC92.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.15.20:654][389]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.15.28:508][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.15.28:544][ 46]LogSavePackage: Save=23.22ms
+[2017.03.05-11.15.28:544][ 46]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target13926606A4CB93187E9C9BAB497841124.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.15.28:547][ 46]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.15.41:655][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.15.41:692][114]LogSavePackage: Save=23.42ms
+[2017.03.05-11.15.41:692][114]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1A218070A457F438639E56A88CFB845E3.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.15.41:694][114]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.15.53:530][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.15.53:572][ 72]LogSavePackage: Save=25.34ms
+[2017.03.05-11.15.53:572][ 72]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1120C39114F108D2A0F5563849713FCF6.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.15.53:574][ 72]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.16.02:602][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.16.02:640][811]LogSavePackage: Save=24.90ms
+[2017.03.05-11.16.02:640][811]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1946456EF4738F67703E556BB4FFB3195.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.16.02:642][811]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.17.32:976][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.17.33:026][870]LogSavePackage: Save=26.42ms
+[2017.03.05-11.17.33:026][870]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target15B1695544C3DB9222997E4A8BC2B88A4.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.17.33:028][870]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.17.50:134][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.17.50:165][ 94]LogSavePackage: Save=18.72ms
+[2017.03.05-11.17.50:165][ 94]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1E9059F144560EFCAD30E659EC5116F17.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.17.50:167][ 94]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.18.37:397][412]BlueprintLog: New page: Compile BP_Target1
+[2017.03.05-11.18.38:679][465]LogSavePackage: Save=110.31ms
+[2017.03.05-11.18.38:679][465]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMapF771A27F449E036A8ADFA1BF42D0AA73.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.18.38:682][465]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.18.38:701][465]LogFileHelpers: Saving map 'MotionControllerMap' took 0.227
+[2017.03.05-11.19.14:795][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.19.14:795][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.05-11.19.14:795][157]PIE: New page: PIE session: MotionControllerMap (Mar 5, 2017, 1:19:14 AM)
+[2017.03.05-11.19.14:796][157]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.03.05-11.19.14:801][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005174s)
+[2017.03.05-11.19.14:801][157]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.03.05-11.19.14:802][157]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2017.03.05-11.19.14:802][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006463s)
+[2017.03.05-11.19.14:850][157]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.05-11.19.14:865][157]LogInit: FAudioDevice initialized.
+[2017.03.05-11.19.14:986][157]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.05-11.19.14:986][157]LogWorld: Game class is 'GameMode'
+[2017.03.05-11.19.14:990][157]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.03.05-06.19.14
+[2017.03.05-11.19.14:990][157]LogWorld: Bringing up level for play took: 0.003180
+[2017.03.05-11.19.15:000][157]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.03.05-11.19.15:000][157]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.19.15:000][157]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.19.15:000][157]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.19.15:003][157]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.19.15:019][157]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.867
+[2017.03.05-11.19.15:019][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.19.15:082][158]LogRenderer: Reallocating scene render targets to support 3024x1680 (Frame:70110).
+[2017.03.05-11.19.45:093][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.19.45:257][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.20.04:202][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.20.04:202][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.05-11.20.04:202][460]PIE: New page: PIE session: MotionControllerMap (Mar 5, 2017, 1:20:04 AM)
+[2017.03.05-11.20.04:202][460]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.03.05-11.20.04:212][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009166s)
+[2017.03.05-11.20.04:212][460]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.03.05-11.20.04:213][460]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2017.03.05-11.20.04:213][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010407s)
+[2017.03.05-11.20.04:284][460]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.05-11.20.04:295][460]LogInit: FAudioDevice initialized.
+[2017.03.05-11.20.04:397][460]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.05-11.20.04:397][460]LogWorld: Game class is 'GameMode'
+[2017.03.05-11.20.04:401][460]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.03.05-06.20.04
+[2017.03.05-11.20.04:401][460]LogWorld: Bringing up level for play took: 0.003192
+[2017.03.05-11.20.04:402][460]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.20.04:402][460]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.20.04:402][460]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.20.04:404][460]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.20.04:418][460]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.266
+[2017.03.05-11.20.04:418][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.20.10:518][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.20.10:696][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.20.15:530][134]LogEditorViewport: Clicking on Actor (LMB): TargetSpawnerY_C (TargetSpawnerY)
+[2017.03.05-11.20.16:467][202]LogEditorViewport: Clicking on Actor (LMB): TargetSpawnerY_C (TargetSpawnerY)
+[2017.03.05-11.20.16:571][207]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2017.03.05-11.21.13:166][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.21.13:216][118]LogSavePackage: Save=32.64ms
+[2017.03.05-11.21.13:216][118]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1FD33A0DB42039BAF765A8D90AC1E8DA7.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.21.13:218][118]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.21.15:242][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.21.15:242][253]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.05-11.21.15:242][253]LogPlayLevel: [PlayLevel] Compiling BP_Target1 before play...
+[2017.03.05-11.21.15:365][253]LogPlayLevel: PlayLevel: Blueprint regeneration took 123 ms (1 blueprints)
+[2017.03.05-11.21.15:365][253]PIE: New page: PIE session: MotionControllerMap (Mar 5, 2017, 1:21:15 AM)
+[2017.03.05-11.21.15:365][253]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.03.05-11.21.15:372][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006446s)
+[2017.03.05-11.21.15:373][253]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.03.05-11.21.15:373][253]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2017.03.05-11.21.15:374][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008403s)
+[2017.03.05-11.21.15:430][253]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.05-11.21.15:442][253]LogInit: FAudioDevice initialized.
+[2017.03.05-11.21.15:544][253]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.05-11.21.15:544][253]LogWorld: Game class is 'GameMode'
+[2017.03.05-11.21.15:548][253]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.03.05-06.21.15
+[2017.03.05-11.21.15:548][253]LogWorld: Bringing up level for play took: 0.003352
+[2017.03.05-11.21.15:549][253]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.21.15:549][253]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.21.15:549][253]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.21.15:551][253]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.21.15:565][253]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.587
+[2017.03.05-11.21.15:565][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.21.29:588][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.21.29:844][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.21.37:097][267]LogSavePackage: Save=113.83ms
+[2017.03.05-11.21.37:097][267]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMapA172C2854ABF74EADCF8108CDF31E1F8.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.21.37:099][267]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.21.37:118][267]LogFileHelpers: Saving map 'MotionControllerMap' took 0.236
+[2017.03.05-11.21.37:133][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.21.37:176][267]LogSavePackage: Save=28.77ms
+[2017.03.05-11.21.37:176][267]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target19A4AE22641AB7D8A1B494E939550F44D.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.21.37:178][267]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.21.40:947][529]LogEditorViewport: Clicking on Actor (LMB): TargetSpawnerY_C (TargetSpawnerY)
+[2017.03.05-11.21.48:223][ 17]LogSavePackage: Save=114.06ms
+[2017.03.05-11.21.48:223][ 17]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMapD5D784F4415DBED6F07FD5A7F062D80F.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.21.48:226][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.21.48:246][ 17]LogFileHelpers: Saving map 'MotionControllerMap' took 0.228
+[2017.03.05-11.21.49:853][123]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.21.49:853][123]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.05-11.21.49:853][123]LogPlayLevel: [PlayLevel] Compiling BP_Target1 before play...
+[2017.03.05-11.21.49:959][123]LogPlayLevel: PlayLevel: Blueprint regeneration took 105 ms (1 blueprints)
+[2017.03.05-11.21.49:959][123]PIE: New page: PIE session: MotionControllerMap (Mar 5, 2017, 1:21:49 AM)
+[2017.03.05-11.21.49:959][123]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.03.05-11.21.49:964][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004956s)
+[2017.03.05-11.21.49:965][123]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.03.05-11.21.49:965][123]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2017.03.05-11.21.49:966][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006175s)
+[2017.03.05-11.21.50:024][123]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.05-11.21.50:035][123]LogInit: FAudioDevice initialized.
+[2017.03.05-11.21.50:139][123]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.05-11.21.50:139][123]LogWorld: Game class is 'GameMode'
+[2017.03.05-11.21.50:143][123]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.03.05-06.21.50
+[2017.03.05-11.21.50:143][123]LogWorld: Bringing up level for play took: 0.003354
+[2017.03.05-11.21.50:144][123]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.21.50:144][123]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.21.50:144][123]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.21.50:146][123]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.21.50:161][123]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.008
+[2017.03.05-11.21.50:161][123]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.22.14:481][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.22.14:731][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.23.08:530][405]LogSavePackage: Save=115.20ms
+[2017.03.05-11.23.08:530][405]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMap03A121B8470A998914408D929C0FC2DE.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.23.08:532][405]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.23.08:551][405]LogFileHelpers: Saving map 'MotionControllerMap' took 0.233
+[2017.03.05-11.23.08:573][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.23.08:618][405]LogSavePackage: Save=26.20ms
+[2017.03.05-11.23.08:618][405]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1015DD97B4D37E8ADC35C85B34F040D03.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.23.08:620][405]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.24.30:145][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.24.30:194][423]LogSavePackage: Save=32.84ms
+[2017.03.05-11.24.30:194][423]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target11EE71CC64BED5AEDC6D873A44F36E1C3.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.24.30:197][423]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.24.41:223][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.24.41:262][236]LogSavePackage: Save=26.16ms
+[2017.03.05-11.24.41:262][236]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target183E0DFF449DF659900AE7891417E5056.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.24.41:264][236]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.24.45:198][529]BlueprintLog: New page: Compile BP_Target1
+[2017.03.05-11.24.46:359][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.24.46:360][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.05-11.24.46:360][592]PIE: New page: PIE session: MotionControllerMap (Mar 5, 2017, 1:24:46 AM)
+[2017.03.05-11.24.46:360][592]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.03.05-11.24.46:365][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005042s)
+[2017.03.05-11.24.46:365][592]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.03.05-11.24.46:366][592]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2017.03.05-11.24.46:366][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006131s)
+[2017.03.05-11.24.46:412][592]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.05-11.24.46:422][592]LogInit: FAudioDevice initialized.
+[2017.03.05-11.24.46:522][592]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.05-11.24.46:522][592]LogWorld: Game class is 'GameMode'
+[2017.03.05-11.24.46:526][592]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.03.05-06.24.46
+[2017.03.05-11.24.46:526][592]LogWorld: Bringing up level for play took: 0.003348
+[2017.03.05-11.24.46:527][592]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.24.46:527][592]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.24.46:527][592]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.24.46:529][592]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.24.46:542][592]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.39
+[2017.03.05-11.24.46:542][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.25.02:701][955]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.25.02:841][955]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.25.26:641][592]LogSavePackage: Save=114.19ms
+[2017.03.05-11.25.26:642][592]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMap010B37F247BF23DD747CA1AD4F43D8C3.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.25.26:644][592]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.25.26:664][592]LogFileHelpers: Saving map 'MotionControllerMap' took 0.240
+[2017.03.05-11.25.26:679][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.25.26:722][592]LogSavePackage: Save=29.42ms
+[2017.03.05-11.25.26:722][592]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target14E89232341CE473AE20CDABE31B0F21D.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.25.26:725][592]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.25.27:779][664]BlueprintLog: New page: Compile BP_Target1
+[2017.03.05-11.25.28:690][716]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.25.28:690][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.05-11.25.28:690][716]PIE: New page: PIE session: MotionControllerMap (Mar 5, 2017, 1:25:28 AM)
+[2017.03.05-11.25.28:691][716]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.03.05-11.25.28:698][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007495s)
+[2017.03.05-11.25.28:699][716]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.03.05-11.25.28:699][716]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2017.03.05-11.25.28:699][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008595s)
+[2017.03.05-11.25.28:747][716]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.05-11.25.28:757][716]LogInit: FAudioDevice initialized.
+[2017.03.05-11.25.28:861][716]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.05-11.25.28:862][716]LogWorld: Game class is 'GameMode'
+[2017.03.05-11.25.28:866][716]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.03.05-06.25.28
+[2017.03.05-11.25.28:866][716]LogWorld: Bringing up level for play took: 0.003636
+[2017.03.05-11.25.28:867][716]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.25.28:867][716]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.25.28:867][716]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.25.28:868][716]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.25.28:882][716]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.73
+[2017.03.05-11.25.28:882][716]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.25.39:846][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.25.40:002][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.26.01:402][721]LogSavePackage: Save=116.80ms
+[2017.03.05-11.26.01:402][721]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMapBECCD5E74303C184A057B3999342BB1A.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.26.01:404][721]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.26.01:424][721]LogFileHelpers: Saving map 'MotionControllerMap' took 0.235
+[2017.03.05-11.26.02:858][811]BlueprintLog: New page: Compile BP_Target1
+[2017.03.05-11.26.03:723][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.26.03:724][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.05-11.26.03:724][847]PIE: New page: PIE session: MotionControllerMap (Mar 5, 2017, 1:26:03 AM)
+[2017.03.05-11.26.03:724][847]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.03.05-11.26.03:730][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005909s)
+[2017.03.05-11.26.03:730][847]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.03.05-11.26.03:731][847]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2017.03.05-11.26.03:731][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007065s)
+[2017.03.05-11.26.03:777][847]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.05-11.26.03:787][847]LogInit: FAudioDevice initialized.
+[2017.03.05-11.26.03:895][847]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.05-11.26.03:895][847]LogWorld: Game class is 'GameMode'
+[2017.03.05-11.26.03:899][847]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.03.05-06.26.03
+[2017.03.05-11.26.03:899][847]LogWorld: Bringing up level for play took: 0.003456
+[2017.03.05-11.26.03:900][847]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.26.03:900][847]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.26.03:900][847]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.26.03:902][847]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.26.03:918][847]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.234
+[2017.03.05-11.26.03:919][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.26.20:147][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.26.20:426][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.27.49:569][613]LogSavePackage: Save=113.89ms
+[2017.03.05-11.27.49:569][613]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMap170879AB41D028BDB887E7A4E3798032.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.27.49:571][613]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.27.49:604][613]LogFileHelpers: Saving map 'MotionControllerMap' took 0.246
+[2017.03.05-11.27.49:633][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.27.49:673][613]LogSavePackage: Save=27.31ms
+[2017.03.05-11.27.49:673][613]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target14A24A2FB4547DE21A8D857823DFA417A.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.27.49:676][613]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.27.56:501][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.27.56:501][103]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.05-11.27.56:501][103]LogPlayLevel: [PlayLevel] Compiling BP_Target1 before play...
+[2017.03.05-11.27.56:609][103]LogPlayLevel: PlayLevel: Blueprint regeneration took 108 ms (1 blueprints)
+[2017.03.05-11.27.56:609][103]PIE: New page: PIE session: MotionControllerMap (Mar 5, 2017, 1:27:56 AM)
+[2017.03.05-11.27.56:609][103]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.03.05-11.27.56:615][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005483s)
+[2017.03.05-11.27.56:616][103]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.03.05-11.27.56:616][103]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2017.03.05-11.27.56:616][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006591s)
+[2017.03.05-11.27.56:661][103]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.05-11.27.56:671][103]LogInit: FAudioDevice initialized.
+[2017.03.05-11.27.56:776][103]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.05-11.27.56:776][103]LogWorld: Game class is 'GameMode'
+[2017.03.05-11.27.56:780][103]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.03.05-06.27.56
+[2017.03.05-11.27.56:781][103]LogWorld: Bringing up level for play took: 0.003510
+[2017.03.05-11.27.56:781][103]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.27.56:781][103]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.27.56:781][103]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.27.56:783][103]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.27.56:798][103]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.646
+[2017.03.05-11.27.56:799][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.28.25:971][578]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.28.26:148][578]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.28.57:873][759]Cmd: TRANSACTION UNDO
+[2017.03.05-11.28.57:873][759]LogEditorTransaction: Undo Delete current selection
+[2017.03.05-11.29.13:857][855]LogEditorTransaction: Undo Create Pin Link
+[2017.03.05-11.29.22:688][454]LogSavePackage: Save=116.80ms
+[2017.03.05-11.29.22:688][454]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMap1ADA7A954519CA345FF1FC99425759D1.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.29.22:693][454]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.29.22:713][454]LogFileHelpers: Saving map 'MotionControllerMap' took 0.236
+[2017.03.05-11.29.22:728][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_Target1" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset" SILENT=true
+[2017.03.05-11.29.22:772][454]LogSavePackage: Save=25.97ms
+[2017.03.05-11.29.22:772][454]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/BP_Target1122EE3334A23E7DCFD0048A648DC5C97.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset'
+[2017.03.05-11.29.22:774][454]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/BP_Target1.uasset
+[2017.03.05-11.29.45:609][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/TargetSpawnerY" FILE="C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset" SILENT=true
+[2017.03.05-11.29.45:647][941]LogSavePackage: Save=19.74ms
+[2017.03.05-11.29.45:647][941]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/TargetSpawnerY6415A5754244A8CE2DD72EB6F139140D.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset'
+[2017.03.05-11.29.45:650][941]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Blueprints/TargetSpawnerY.uasset
+[2017.03.05-11.29.47:381][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.29.47:381][ 59]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.05-11.29.47:381][ 59]LogPlayLevel: [PlayLevel] Compiling TargetSpawnerY before play...
+[2017.03.05-11.29.47:471][ 59]LogPlayLevel: [PlayLevel] Compiling BP_Target1 before play...
+[2017.03.05-11.29.47:583][ 59]LogPlayLevel: PlayLevel: Blueprint regeneration took 202 ms (2 blueprints)
+[2017.03.05-11.29.47:584][ 59]PIE: New page: PIE session: MotionControllerMap (Mar 5, 2017, 1:29:47 AM)
+[2017.03.05-11.29.47:584][ 59]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.03.05-11.29.47:589][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005340s)
+[2017.03.05-11.29.47:590][ 59]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.03.05-11.29.47:590][ 59]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2017.03.05-11.29.47:590][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006436s)
+[2017.03.05-11.29.47:636][ 59]LogInit: XAudio2 using 'Speakers (7- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.05-11.29.47:649][ 59]LogInit: FAudioDevice initialized.
+[2017.03.05-11.29.47:749][ 59]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.05-11.29.47:749][ 59]LogWorld: Game class is 'GameMode'
+[2017.03.05-11.29.47:753][ 59]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.03.05-06.29.47
+[2017.03.05-11.29.47:753][ 59]LogWorld: Bringing up level for play took: 0.003223
+[2017.03.05-11.29.47:754][ 59]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.29.47:754][ 59]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.05-11.29.47:754][ 59]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.29.47:756][ 59]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.05-11.29.47:766][ 59]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.386
+[2017.03.05-11.29.47:766][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.30.38:119][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.30.38:295][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.03.05-11.31.37:394][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.05-11.31.37:525][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.05-11.31.37:669][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.05-11.31.54:145][376]LogSavePackage: Save=107.92ms
+[2017.03.05-11.31.54:146][376]LogSavePackage: Moving 'C:/Users/hunte/DataRange/DataRange/Saved/MotionControllerMap5A7A823E4F310FF8FF14ADA8E59DEC5B.tmp' to 'C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.03.05-11.31.54:150][376]LogSavePackage:Display: Finished SavePackage C:/Users/hunte/DataRange/DataRange/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.03.05-11.31.54:174][376]LogFileHelpers: Saving map 'MotionControllerMap' took 0.251
+[2017.03.05-11.31.54:235][376]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.05-11.31.54:448][377]Cmd: QUIT_EDITOR
+[2017.03.05-11.31.55:215][377]LogExit: Preparing to exit.
+[2017.03.05-11.31.55:577][377]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.03.05-11.31.55:577][377]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.03.05-11.31.55:577][377]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.03.05-11.31.55:747][377]LogExit: Editor shut down
+[2017.03.05-11.31.55:748][377]LogExit: Transaction tracking system shut down
+[2017.03.05-11.31.55:972][377]LogObj: Freed 0b from 0 cluster array pools.
+[2017.03.05-11.31.55:973][377]LogExit: Object subsystem successfully closed.
+[2017.03.05-11.31.55:999][377]LogD3D11RHI: Shutdown
+[2017.03.05-11.31.55:999][377]LogD3D11RHI: CleanupD3DDevice
+[2017.03.05-11.31.56:001][377]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.03.05-11.31.56:015][377]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (237)
+[2017.03.05-11.31.56:016][377]LogModuleManager: Shutting down and abandoning module SequencerWidgets (236)
+[2017.03.05-11.31.56:016][377]LogModuleManager: Shutting down and abandoning module BlueprintGraph (235)
+[2017.03.05-11.31.56:016][377]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (234)
+[2017.03.05-11.31.56:016][377]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.03.05-11.31.56:016][377]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (232)
+[2017.03.05-11.31.56:016][377]LogModuleManager: Shutting down and abandoning module CrashTracker (231)
+[2017.03.05-11.31.56:016][377]LogModuleManager: Shutting down and abandoning module SceneOutliner (230)
+[2017.03.05-11.31.56:016][377]LogModuleManager: Shutting down and abandoning module WidgetCarousel (229)
+[2017.03.05-11.31.56:016][377]LogModuleManager: Shutting down and abandoning module AddContentDialog (228)
+[2017.03.05-11.31.56:016][377]LogDirectoryWatcher: A directory notification for 'D:/Epic Games/4.13/FeaturePacks/' was aborted.
+[2017.03.05-11.31.56:023][377]LogModuleManager: Shutting down and abandoning module GameplayTags (227)
+[2017.03.05-11.31.56:023][377]LogModuleManager: Shutting down and abandoning module EditorWidgets (226)
+[2017.03.05-11.31.56:023][377]LogModuleManager: Shutting down and abandoning module CollectionManager (225)
+[2017.03.05-11.31.56:023][377]LogDirectoryWatcher: A directory notification for 'C:/Users/hunte/DataRange/DataRange/Content/Collections/' was aborted.
+[2017.03.05-11.31.56:023][377]LogDirectoryWatcher: A directory notification for 'C:/Users/hunte/DataRange/DataRange/Content/Developers/hunte/Collections/' was aborted.
+[2017.03.05-11.31.56:023][377]LogDirectoryWatcher: A directory notification for 'C:/Users/hunte/DataRange/DataRange/Saved/Collections/' was aborted.
+[2017.03.05-11.31.56:023][377]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2017.03.05-11.31.56:023][377]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module Media (206)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2017.03.05-11.31.56:024][377]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2017.03.05-11.31.56:025][377]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2017.03.05-11.31.56:025][377]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2017.03.05-11.31.56:025][377]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2017.03.05-11.31.56:025][377]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2017.03.05-11.31.56:025][377]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2017.03.05-11.31.56:025][377]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2017.03.05-11.31.56:175][377]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2017.03.05-11.31.56:176][377]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2017.03.05-11.31.56:176][377]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2017.03.05-11.31.56:176][377]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2017.03.05-11.31.56:177][377]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2017.03.05-11.31.56:177][377]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2017.03.05-11.31.56:177][377]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2017.03.05-11.31.56:177][377]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2017.03.05-11.31.56:177][377]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2017.03.05-11.31.56:177][377]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2017.03.05-11.31.56:230][377]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2017.03.05-11.31.56:230][377]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2017.03.05-11.31.56:230][377]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2017.03.05-11.31.56:230][377]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2017.03.05-11.31.56:230][377]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2017.03.05-11.31.56:230][377]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2017.03.05-11.31.56:230][377]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2017.03.05-11.31.56:230][377]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2017.03.05-11.31.56:230][377]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2017.03.05-11.31.56:237][377]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2017.03.05-11.31.56:237][377]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2017.03.05-11.31.56:239][377]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2017.03.05-11.31.56:239][377]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2017.03.05-11.31.56:239][377]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2017.03.05-11.31.56:239][377]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2017.03.05-11.31.56:239][377]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2017.03.05-11.31.56:239][377]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2017.03.05-11.31.56:240][377]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2017.03.05-11.31.56:240][377]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2017.03.05-11.31.56:240][377]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2017.03.05-11.31.56:240][377]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2017.03.05-11.31.56:240][377]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2017.03.05-11.31.56:240][377]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2017.03.05-11.31.56:240][377]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2017.03.05-11.31.56:240][377]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2017.03.05-11.31.56:240][377]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2017.03.05-11.31.56:240][377]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2017.03.05-11.31.56:289][377]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2017.03.05-11.31.56:290][377]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2017.03.05-11.31.56:292][377]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2017.03.05-11.31.56:294][377]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2017.03.05-11.31.56:294][377]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2017.03.05-11.31.56:394][377]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2017.03.05-11.31.56:495][377]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2017.03.05-11.31.56:498][377]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2017.03.05-11.31.56:498][377]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2017.03.05-11.31.56:498][377]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2017.03.05-11.31.56:498][377]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2017.03.05-11.31.56:498][377]LogModuleManager: Shutting down and abandoning module Core (67)
+[2017.03.05-11.31.56:498][377]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2017.03.05-11.31.56:498][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.03.05-11.31.56:499][377]LogDirectoryWatcher: A directory notification for 'C:/Users/hunte/DataRange/DataRange/Content/' was aborted.
+[2017.03.05-11.31.56:500][377]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.03.05-11.31.56:503][377]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2017.03.05-11.31.56:839][377]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2017.03.05-11.31.56:839][377]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2017.03.05-11.31.56:839][377]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2017.03.05-11.31.56:839][377]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2017.03.05-11.31.56:931][377]LogDerivedDataCache: Shutdown
+[2017.03.05-11.31.56:931][377]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2017.03.05-11.31.56:931][377]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2017.03.05-11.31.56:931][377]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2017.03.05-11.31.56:931][377]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2017.03.05-11.31.56:931][377]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2017.03.05-11.31.56:931][377]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2017.03.05-11.31.56:932][377]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2017.03.05-11.31.56:933][377]LogOnline:Display: Unloading online subsystem: NULL
+[2017.03.05-11.31.56:933][377]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.03.05-11.31.56:933][377]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.03.05-11.31.56:933][377]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29A2AAF4-4AF4-B768-5826-7792B45E558D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=0e07a40b4e5405b7e7941aaedf5e07fb%7C2dbf2891982c485eb91240a5817a7c78%7C468ec6c5-487b-403d-a4fd-d88087f4ca80&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.05-11.31.56:954][377]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.03.05-11.31.56:954][377]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.03.05-11.31.56:954][377]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.03.05-11.31.56:954][377]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.03.05-11.31.56:954][377]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.03.05-11.31.56:966][377]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.03.05-11.31.56:966][377]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.03.05-11.31.56:966][377]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.03.05-11.31.56:966][377]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.03.05-11.31.56:966][377]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.03.05-11.31.56:966][377]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.03.05-11.31.56:966][377]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.03.05-11.31.56:966][377]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.03.05-11.31.56:966][377]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.03.05-11.31.56:966][377]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.03.05-11.31.56:968][377]LogExit: Exiting.
+[2017.03.05-11.31.56:984][377]Log file closed, 03/05/17 06:31:56
